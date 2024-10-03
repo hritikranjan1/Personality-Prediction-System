@@ -30,5 +30,5 @@ The system uses the Big Five personality traits:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/Personality-Prediction-System.git
+   git clone https://github.com/hritikranjan1/Personality-Prediction-System.git
    cd Personality-Prediction-System
