@@ -32,3 +32,7 @@ The system uses the Big Five personality traits:
    ```bash
    git clone https://github.com/hritikranjan1/Personality-Prediction-System.git
    cd Personality-Prediction-System
+2.Install the Required Libraries: You can install the necessary libraries using pip:
+ ```bash
+pip install -r requirements.txt
+ 
